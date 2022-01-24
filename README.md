@@ -9,7 +9,7 @@
   
 ---
 
-- :pray: My preferred prounouns are he/him.
+- :pray: My preferred pronouns are he/him.
 - :mag_right: I’m interested in software engineering and web development.
 - :books: I’m currently learning Django, Vue, and the Jamstack.
 - :handshake: I’m looking to collaborate on something Open Source.
