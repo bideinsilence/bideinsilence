@@ -2,7 +2,7 @@
   <img src="/napoleon-dynamite-wave.gif" alt="Napoleon Dynamite waving hi.">
 </p>
 
-<h3 align="center"><img src="/blue-triforce.png" width="40px"> Hey. How's it goin'? I’m Corey Scanlan @bideinsilence</h3>
+<h3 align="center"><img src="/blue-triforce.png" width="40px"> Hey. How's it going? I’m Corey Scanlan @bideinsilence</h3>
 <p align="center">
   <a href="https://bideinsilence.github.io">Personal Site</a> ~ <a href="https://twitter.com/corey_scanlan">Twitter</a>
 </p>
